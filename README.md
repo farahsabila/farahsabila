@@ -1,5 +1,5 @@
 <p align="center"><strong>Hi everyone 👋, I'm Farah Salsabila!</strong></p>
-#|
+
 <p>I am a result-driven Internet of Things Engineer with ...</p>
 <!--
 **farahsabila/farahsabila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
