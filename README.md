@@ -1,4 +1,4 @@
-<p align="center"><strong>Hi everyone 👋, I'm Farah Salsabila</strong></p>
+<p align="center"><strong>Hi everyone 👋, I'm Farah Salsabila!</strong></p>
 
 <p>I am a result-driven Internet of Things Engineer with ...</p>
 <!--
