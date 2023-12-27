@@ -1,4 +1,4 @@
-### Hi there 👋
+<p align="center"><strong>Hi there 👋, I'm Farah Salsabila</strong></p>
 
 <!--
 **farahsabila/farahsabila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
